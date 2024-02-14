@@ -4,6 +4,8 @@ ____________________
 
 A meal app is created to store and search meals. ONLY vanilla javascript is used , no libraries or frameworks used for Javascript .
 
+
+
 ______________________
 **Key Features**
 _________________
@@ -21,6 +23,9 @@ Display a list of all the favourite meals.
 Make this list persistent (should have the same number of meals before and after closing the browser/refreshing the browser).
 Remove from favourites button: Each meal should have remove from favourites button, clicking on which should remove that meal from the list.
 
+
+
+
 ______________________
 **Prerequisites**
 ___________________
@@ -30,13 +35,18 @@ HTML
 CSS
 JavaScript
 
+
+
 ________________
 **Demo**
 _________________
 
 Check out the live demo of the application at  -  https://riyanchhi10.github.io/Meal_app/
 
-____________________
+
+
+
+___________________
 **Acknowledgments**
 ___________________
 
